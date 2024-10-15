@@ -14,13 +14,13 @@ public void Menu()
     switch(option)
     {
         case: "1"
-            Console.WriteLine("Taxis and Busses are cool")
+            Console.WriteLine("Taxis and Busses are cool.")
             break;
         case: "2"
-            Console.WriteLine("I love a mazda")
+            Console.WriteLine("I love a mazda.")
             break;
         case: "3"
-            Console.WriteLine("Taxis and Busses are cool")
+            Console.WriteLine("Taxis and Busses are cool.")
             break;
         default:
             Console.WriteLine("Wrong selection!")
